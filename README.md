@@ -1,2 +1,2 @@
 # Machine-Learning
-Implementation of algorithms using Python
+Implementation of ML algorithms using Python
